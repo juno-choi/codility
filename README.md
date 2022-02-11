@@ -12,3 +12,9 @@ https://app.codility.com/demo/results/trainingMKS73Q-8UQ/
 https://app.codility.com/demo/results/trainingZHF5D8-HY2/
 
 ---
+
+### OddOccurrencesInArray
+
+https://app.codility.com/demo/results/trainingW4VJJW-UWF/
+
+---
