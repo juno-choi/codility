@@ -18,3 +18,9 @@ https://app.codility.com/demo/results/trainingZHF5D8-HY2/
 https://app.codility.com/demo/results/trainingW4VJJW-UWF/
 
 ---
+
+### EasyFrogJmp
+
+https://app.codility.com/demo/results/training9QDHKP-XAB/
+
+---
