@@ -24,3 +24,9 @@ https://app.codility.com/demo/results/trainingW4VJJW-UWF/
 https://app.codility.com/demo/results/training9QDHKP-XAB/
 
 ---
+
+### PermMissingElem
+
+
+
+---
