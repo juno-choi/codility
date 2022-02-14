@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-//
+//https://app.codility.com/demo/results/trainingF65TTZ-FK6/
 public class PermMissingElem {
     public static void main(String[] args) {
         int[] A = {2,3,1,5};
