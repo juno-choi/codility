@@ -34,3 +34,11 @@ https://app.codility.com/demo/results/trainingF65TTZ-FK6/
 ### TapeEquilibrium
 
 https://app.codility.com/demo/results/training2GZMP2-WDG/
+
+---
+
+### FrogRiverOne
+
+https://app.codility.com/demo/results/trainingECPAMM-3QZ/
+
+---
