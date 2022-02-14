@@ -42,3 +42,9 @@ https://app.codility.com/demo/results/training2GZMP2-WDG/
 https://app.codility.com/demo/results/trainingECPAMM-3QZ/
 
 ---
+
+### PermCheck
+
+https://app.codility.com/demo/results/trainingTMX9ZK-M36/
+
+---
