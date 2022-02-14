@@ -30,3 +30,7 @@ https://app.codility.com/demo/results/training9QDHKP-XAB/
 https://app.codility.com/demo/results/training2GZMP2-WDG/
 
 ---
+
+### TapeEquilibrium
+
+https://app.codility.com/demo/results/training2GZMP2-WDG/
