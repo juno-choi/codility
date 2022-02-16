@@ -48,3 +48,9 @@ https://app.codility.com/demo/results/trainingECPAMM-3QZ/
 https://app.codility.com/demo/results/trainingTMX9ZK-M36/
 
 ---
+
+### MaxCounters
+
+https://velog.io/@ililil9482/MaxCounters-codility
+
+---
