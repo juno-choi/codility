@@ -54,3 +54,11 @@ https://app.codility.com/demo/results/trainingTMX9ZK-M36/
 https://velog.io/@ililil9482/MaxCounters-codility
 
 ---
+
+---
+
+### MissingInteger
+
+https://velog.io/@ililil9482/MissingInteger-codility
+
+---
