@@ -12,20 +12,28 @@ public class MaxCounters {
     }
 
     public static int[] solution(int N, int[] A) {
-        int[] arr = new int[N];
-        int max = 0;
+        int[] result = new int[N];
+        int tempNum = 0;
+        int maxNum = 0;
 
-        for(int i : A){
-            if(i>N || i<1){
-                //최대값들을 더해서 가지고 있음
-                Arrays.fill(arr, max);
+        for(int i=0; i<A.length; i++){
+            if(A[i]>N){
+                maxNum = tempNum;
                 continue;
             }
-            int su = arr[i-1]++;
-            su++;
-            if(max < su) max = su;
+
+            if(result[A[i]-1] < maxNum) result[A[i]-1] = maxNum;
+
+            result[A[i]-1]++;
+
+            if(result[A[i]-1]>tempNum) tempNum = result[A[i]-1];
         }
 
-        return arr;
+
+        for(int i=0; i<N; i++){
+            if(result[i]<maxNum) result[i] = maxNum;
+        }
+
+        return result;
     }
 }
